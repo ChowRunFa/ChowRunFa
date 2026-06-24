@@ -46,32 +46,32 @@ Currently      ── long-term, structured memory for LLM agents
 
 ### 📚 Selected Publications
 
-<sub>**Bold** = me · ★ = first author. Citation counts as of 2026.</sub>
-
-- **DimMem: Dimensional Structuring for Efficient Long-Term Agent Memory** &nbsp;★
-  &nbsp;&nbsp;**W. Qiu**, H. Hu, F. Wang, J. Kong, Y. Zhang. &nbsp;*arXiv preprint*, 2026.
-  &nbsp;&nbsp;[[arXiv](https://arxiv.org/abs/2605.15759)] · [[code](https://github.com/ChowRunFa/DimMem)]
+<sub>**Bold** = me · ★ first author · ✦ co-first author (equal contribution). Citation counts as of 2026.</sub>
 
 - **ANCHOR: Abductive Network Construction with Hierarchical Orchestration for Reliable Probability Inference in LLMs** &nbsp;★
-  &nbsp;&nbsp;**W. Qiu**, G. Luo, Z. Jian, J. Gao, M. Wang, Q. Wu. &nbsp;*arXiv preprint*, 2026. &nbsp;<sub>(2 citations)</sub>
+  &nbsp;&nbsp;**W. Qiu**, G. Luo, Z. Jian, J. Gao, M. Wang, Q. Wu. &nbsp;***ICML 2026***. &nbsp;<sub>(2 citations)</sub>
   &nbsp;&nbsp;[[arXiv](https://arxiv.org/abs/2605.10328)]
 
-- **GCoT-Decoding: Unlocking Deep Reasoning Paths for Universal Question Answering**
-  &nbsp;&nbsp;G. Luo, **W. Qiu**, Z. Jian, M. Wang, Q. Wu. &nbsp;*arXiv preprint*, 2026. &nbsp;<sub>(5 citations)</sub>
-  &nbsp;&nbsp;[[arXiv](https://arxiv.org/abs/2604.06794)]
-
-- **AGSC: Adaptive Granularity and Semantic Clustering for Uncertainty Quantification in Long-text Generation**
-  &nbsp;&nbsp;G. Luo, **W. Qiu**, W. Zhao, W. Lv, Z. Jian, M. Wang, Q. Wu. &nbsp;*arXiv preprint*, 2026.
+- **AGSC: Adaptive Granularity and Semantic Clustering for Uncertainty Quantification in Long-text Generation** &nbsp;✦
+  &nbsp;&nbsp;G. Luo, **W. Qiu**, W. Zhao, W. Lv, Z. Jian, M. Wang, Q. Wu. &nbsp;***ACL 2026 (Main)***.
   &nbsp;&nbsp;[[arXiv](https://arxiv.org/abs/2604.06812)]
 
 - **DTCRS: Dynamic Tree Construction for Recursive Summarization**
   &nbsp;&nbsp;G. Luo, Z. Jian, **W. Qiu**, M. Wang, Q. Wu. &nbsp;***ACL 2025*** (63rd Annual Meeting of the ACL). &nbsp;<sub>(3 citations)</sub>
+
+- **GCoT-Decoding: Unlocking Deep Reasoning Paths for Universal Question Answering**
+  &nbsp;&nbsp;G. Luo, **W. Qiu**, Z. Jian, M. Wang, Q. Wu. &nbsp;***ACL 2026 (Findings)***. &nbsp;<sub>(5 citations)</sub>
+  &nbsp;&nbsp;[[arXiv](https://arxiv.org/abs/2604.06794)]
 
 - **MDF: A Modality-Aware Disentanglement and Fusion Framework for Multimodal Sentiment Analysis**
   &nbsp;&nbsp;Z. Jian, W. Lv, Y. Chen, G. Luo, **W. Qiu**, S. Wang, B. Hu, Q. Wu. &nbsp;***AAAI 2026***.
 
 - **Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning**
   &nbsp;&nbsp;Z. Pan, Y. Peng, Z. Jian, Y. Chen, **W. Qiu**, H. Ma, J. Yao, M. Wang, Q. Wu. &nbsp;***ICASSP 2025***.
+
+- **DimMem: Dimensional Structuring for Efficient Long-Term Agent Memory** &nbsp;★
+  &nbsp;&nbsp;**W. Qiu**, H. Hu, F. Wang, J. Kong, Y. Zhang. &nbsp;*arXiv preprint*, 2026.
+  &nbsp;&nbsp;[[arXiv](https://arxiv.org/abs/2605.15759)] · [[code](https://github.com/ChowRunFa/DimMem)]
 
 ---
 
