@@ -12,7 +12,6 @@
 
 <p align="center">
   <b>M.S. Student, Xiamen University (XMU) · Center for Digital Media Computing (CDMC)</b><br>
-  <sub>Joint-training exchange student @ University of Science and Technology of China (USTC)</sub><br>
   LLM Reasoning · Reinforcement Learning · Long-Term Memory for Agents
 </p>
 
@@ -27,7 +26,7 @@
 
 ### 👋 About
 
-I am an M.S. student at **Xiamen University (XMU)** (Center for Digital Media Computing, CDMC), currently a **joint-training exchange student at the University of Science and Technology of China (USTC)**, working at the intersection of **large language models, reinforcement learning, and agent memory**; I completed my undergraduate studies at **Jiangxi University of Science and Technology (JXUST)**. My research asks how language agents can *reason more deeply*, *quantify their own uncertainty*, and *remember reliably over long horizons*. I build systems end-to-end — from post-training and RL to the memory architectures that let agents persist and retrieve knowledge across time.
+I am an M.S. student at **Xiamen University (XMU)**, in the **Center for Digital Media Computing (CDMC)**, working at the intersection of **large language models, reinforcement learning, and agent memory**. I completed my undergraduate studies at **Jiangxi University of Science and Technology (JXUST)**, including a **joint-training exchange program at the University of Science and Technology of China (USTC)**. My research asks how language agents can *reason more deeply*, *quantify their own uncertainty*, and *remember reliably over long horizons*. I build systems end-to-end — from post-training and RL to the memory architectures that let agents persist and retrieve knowledge across time.
 
 ```text
 Research focus ── LLM Reasoning · Reinforcement Learning · Memory Agents
