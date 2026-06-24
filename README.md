@@ -59,6 +59,10 @@ Currently      ── long-term, structured memory for LLM agents
 - **DTCRS: Dynamic Tree Construction for Recursive Summarization**
   &nbsp;&nbsp;G. Luo, Z. Jian, **W. Qiu**, M. Wang, Q. Wu. &nbsp;***ACL 2025*** (63rd Annual Meeting of the ACL). &nbsp;<sub>(3 citations)</sub>
 
+- **DimMem: Dimensional Structuring for Efficient Long-Term Agent Memory** &nbsp;★
+  &nbsp;&nbsp;**W. Qiu**, H. Hu, F. Wang, J. Kong, Y. Zhang. &nbsp;*arXiv preprint*, 2026.
+  &nbsp;&nbsp;[[arXiv](https://arxiv.org/abs/2605.15759)] · [[code](https://github.com/ChowRunFa/DimMem)]
+
 - **GCoT-Decoding: Unlocking Deep Reasoning Paths for Universal Question Answering**
   &nbsp;&nbsp;G. Luo, **W. Qiu**, Z. Jian, M. Wang, Q. Wu. &nbsp;***ACL 2026 (Findings)***. &nbsp;<sub>(5 citations)</sub>
   &nbsp;&nbsp;[[arXiv](https://arxiv.org/abs/2604.06794)]
@@ -68,10 +72,6 @@ Currently      ── long-term, structured memory for LLM agents
 
 - **Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning**
   &nbsp;&nbsp;Z. Pan, Y. Peng, Z. Jian, Y. Chen, **W. Qiu**, H. Ma, J. Yao, M. Wang, Q. Wu. &nbsp;***ICASSP 2025***.
-
-- **DimMem: Dimensional Structuring for Efficient Long-Term Agent Memory** &nbsp;★
-  &nbsp;&nbsp;**W. Qiu**, H. Hu, F. Wang, J. Kong, Y. Zhang. &nbsp;*arXiv preprint*, 2026.
-  &nbsp;&nbsp;[[arXiv](https://arxiv.org/abs/2605.15759)] · [[code](https://github.com/ChowRunFa/DimMem)]
 
 ---
 
@@ -90,6 +90,7 @@ Currently      ── long-term, structured memory for LLM agents
 | Project | Description |
 | :--- | :--- |
 | **[DimMem](https://github.com/ChowRunFa/DimMem)** | Dimensional structuring for efficient long-term agent memory — code for the paper. |
+| **[ANCHOR](https://github.com/ChowRunFa/ANCHOR)** | Abductive network with hierarchical orchestration for reliable probability inference in LLMs — code for the ICML 2026 paper. |
 | **[llm_report_generate](https://github.com/ChowRunFa/llm_report_generate)** | LLM-driven intelligent report generation over papers, patents, and news. |
 
 ---
