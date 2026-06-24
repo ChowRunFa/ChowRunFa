@@ -2,32 +2,31 @@
   GitHub Profile README for ChowRunFa
   To publish: this file must live in a repo named exactly  ChowRunFa/ChowRunFa
   (see PUBLISH.md in this folder for one-time setup commands).
-  TODO before publishing — fill the items marked  <<...>>  below.
 -->
 
-<h1 align="center">Wei Qiu &nbsp;<sub><sub>邱 · <code>ChowRunFa</code></sub></sub></h1>
+<h1 align="center">Wentao Qiu &nbsp;<sub><sub><code>ChowRunFa</code></sub></sub></h1>
 
 <p align="center">
   <em>“The wind rises, and the clouds soar.”</em>
 </p>
 
 <p align="center">
-  <b>Graduate Researcher @ University of Science and Technology of China (USTC)</b><br>
+  <b>M.S. Student @ Xiamen University (XMU) · Center for Digital Media Computing (CDMC)</b><br>
   LLM Reasoning · Reinforcement Learning · Long-Term Memory for Agents
 </p>
 
 <p align="center">
-  <a href="<<GOOGLE_SCHOLAR_URL>>"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="mailto:<<your_email@mail.ustc.edu.cn>>"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://scholar.google.com/citations?user=Tp-qJZQAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="mailto:wtqiu@mail.ustc.edu.cn"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/ChowRunFa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://arxiv.org/a/<<arxiv_author_id>>"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+  <a href="https://cdmc.xmu.edu.cn/index.htm"><img src="https://img.shields.io/badge/Lab-XMU%20CDMC-2C7A4B?style=flat-square&logo=googleclassroom&logoColor=white" alt="Lab"></a>
 </p>
 
 ---
 
 ### 👋 About
 
-I am a graduate researcher at **USTC**, working at the intersection of **large language models, reinforcement learning, and agent memory**. My research asks how language agents can *reason more deeply*, *quantify their own uncertainty*, and *remember reliably over long horizons*. I build systems end-to-end — from post-training and RL to the memory architectures that let agents persist and retrieve knowledge across time.
+I am an M.S. student at **Xiamen University (XMU)**, in the **Center for Digital Media Computing (CDMC)**, working at the intersection of **large language models, reinforcement learning, and agent memory**. My research asks how language agents can *reason more deeply*, *quantify their own uncertainty*, and *remember reliably over long horizons*. I build systems end-to-end — from post-training and RL to the memory architectures that let agents persist and retrieve knowledge across time.
 
 ```text
 Research focus ── LLM Reasoning · Reinforcement Learning · Memory Agents
