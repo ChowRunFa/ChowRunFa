@@ -57,7 +57,7 @@ Currently      ── long-term, structured memory for LLM agents
   &nbsp;&nbsp;[[arXiv](https://arxiv.org/abs/2604.06812)]
 
 - **DTCRS: Dynamic Tree Construction for Recursive Summarization**
-  &nbsp;&nbsp;G. Luo, Z. Jian, **W. Qiu**, M. Wang, Q. Wu. &nbsp;***ACL 2025*** (63rd Annual Meeting of the ACL). &nbsp;<sub>(3 citations)</sub>
+  &nbsp;&nbsp;G. Luo, Z. Jian, **W. Qiu**, M. Wang, Q. Wu. &nbsp;***ACL 2025 (Main)***. &nbsp;<sub>(3 citations)</sub>
   &nbsp;&nbsp;[[paper](https://aclanthology.org/2025.acl-long.536/)] · [[code](https://github.com/luoguanran/DTCRS)]
 
 - **DimMem: Dimensional Structuring for Efficient Long-Term Agent Memory** &nbsp;★
